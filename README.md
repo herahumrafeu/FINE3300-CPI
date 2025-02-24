@@ -1,0 +1,4 @@
+# FINE3300-CPI
+Assignment 2 for FINE 3300 by Herahum Rafeu 
+Project Description:
+This assignment involves the writing of a program that combines 11 csv files that contains CPI data Canada wide and for each province. The code is written to present the data in a certain way as requested in the assignment brief then calculating the average month-to-month change in food, shelter, All-items excluding food and energy then reporting the province that experienced the highest change in each category. Additionally, the code also calculates the annual change in CPI for the 'services' category and the province that experienced the highest inflation in services. 
